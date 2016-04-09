@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  PitchPerfect
 //
-//  Created by Belinda Vennam on 4/8/16.
-//  Copyright © 2016 Belinda Vennam. All rights reserved.
+//  Created by Ram Vennam on 4/8/16.
+//  Copyright © 2016 Ram Vennam. All rights reserved.
 //
 
 import UIKit
